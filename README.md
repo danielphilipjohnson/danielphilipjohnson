@@ -1,6 +1,7 @@
 # Daniel Philip Johnson¬@danielphilipjohnson
 
-### Hi there 👋
+👋Hi! I'm a React Developer currently working on a series of side projects in my free time as well as contributing to the community with React and web resources.
+
 - 📌 Cornwall 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 - 🥼 Psychologist/neurosciencist turned React developer 🖥️
 - 🎓 Bsc Psychology | University of Plymouth 🏫 
@@ -17,10 +18,15 @@
 ### Biography
 I discovered programming as a young child by helping my mother program the game <a href="https://www.retrogamer.net/retro_games80/blue-meanies-from-outer-space/">Blue Meanies from Outer Space</a>  into the Commodore 64 (CBM 64) memory.  Then while at college, I spent my free time playing Xbox and came across XNA Game Studio 3.0 in 2008. This idea of making games for Xbox seemed cool to me. So I started to learn C# and eventually built an RPG game from the toolkit they provided. After I finished college, I progressed to university studying psychology with little free time. My next year I switched to neuroscience where once again I fell in love with programming. It required using a samba Linux server and creating experiments with python and using libraries such as pandas, NumPy and matplotlib to plot and analysis data.  Then slowly in my free time, I started learning web development with freecodecamp and udacity and late moving to react. 
 
+## ☕ Wanna Chat?
+@ me on <a href="https://twitter.com/DanielPhilipJo1">Twitter</a> about any of the following topics!\
+**ReactJS**: I would love to hear about your projects, or help you find helpful resources?\
+**JS**: If you require any resources, course suggestions or app ideas let me know!\
+**HTML/CSS**: If you want someone to work with on a project and I am free, then I will happily collaborate.\
+**Other**: Talk to me about your favorite video game, I causally play <a href="https://fortnitetracker.com/profile/all/undreamt%20mayhem">Fortnite</a> or what you are currently watching? Suggestions always apperciated!\
 
-## Find me around the web 
-🌎: 
-- Sharing useful programming resources on <a href="https://twitter.com/DanielPhilipJo1">Twitter</a> or <a href="https://www.linkedin.com/in/daniel-philip-johnson/">LinkedIn</a> 💼
+## Find me around the web 🌎: 
+- Sharing useful programming resources on <a href="https://www.linkedin.com/in/daniel-philip-johnson/">LinkedIn</a> 💼
 - Tinkering with my projects on <a href="https://codepen.io/danielphilipjohnson/"> Codepen</a> 🏓
 - Showing my work in progress <a href="https://www.instagram.com/danielphilipjohnson/"> Instagram </a> 📹🤳
 
