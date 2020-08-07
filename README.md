@@ -1,8 +1,13 @@
-
-
-
-
 # [![Daniel Philip Johnson header](https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/banner/banner.png)](https://danielphilipjohnson.github.io/)
+
+<p align='center'>
+<a href="https://codepen.io/danielphilipjohnson/"><img height="30" src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/social-icons/codepen.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/danielPhilipJo1"><img height="30" src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/social-icons/twitter.png"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/danielphilipjohnson/"><img height="30" src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/social-icons/instagram.jpg"></a>&nbsp;&nbsp;
+<a href="/"><img height="30" src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/social-icons/dev.webp"></a>
+<a href="https://www.linkedin.com/in/daniel-philip-johnson/"><img height="30" src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/social-icons/linkedin.png"></a>
+</p>
+
 
 ### Daniel Philip Johnson¬@danielphilipjohnson
 👋Hi! I'm a React Developer currently working on a series of side projects in my free time as well as contributing to the community with React and web resources.
