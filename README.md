@@ -1,5 +1,10 @@
-# Daniel Philip Johnson¬@danielphilipjohnson
 
+
+
+
+# [![Daniel Philip Johnson header](https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/banner/banner.png)](https://danielphilipjohnson.github.io/)
+
+### Daniel Philip Johnson¬@danielphilipjohnson
 👋Hi! I'm a React Developer currently working on a series of side projects in my free time as well as contributing to the community with React and web resources.
 
 - 📌 Cornwall 🏴󠁧󠁢󠁥󠁮󠁧󠁿
