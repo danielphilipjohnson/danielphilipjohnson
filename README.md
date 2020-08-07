@@ -9,7 +9,15 @@
 </p>
 
 
-### Daniel Philip Johnson¬@danielphilipjohnson
+
+<p style="margin: 0 auto">
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielphilipjohnson&layout=compact)](https://github.com/danielphilipjohnson/github-readme-stats)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=danielphilipjohnson&show_icons=true&theme=merko)
+
+</p>
 👋Hi! I'm a React Developer currently working on a series of side projects in my free time as well as contributing to the community with React and web resources.
 
 - 📌 Cornwall 🏴󠁧󠁢󠁥󠁮󠁧󠁿
