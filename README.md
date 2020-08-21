@@ -2,7 +2,7 @@
 
 <p align='center'>
 <a href="https://codepen.io/danielphilipjohnson/"><img height="30" src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/social-icons/codepen.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/danielPhilipJo1"><img height="30" src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/social-icons/twitter.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/danielp_johnson"><img height="30" src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/social-icons/twitter.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/danielphilipjohnson/"><img height="30" src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/social-icons/instagram.jpg"></a>&nbsp;&nbsp;
 <a href="/"><img height="30" src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/social-icons/dev.webp"></a>
 <a href="https://www.linkedin.com/in/daniel-philip-johnson/"><img height="30" src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/social-icons/linkedin.png"></a>
