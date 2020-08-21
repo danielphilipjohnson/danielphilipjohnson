@@ -28,7 +28,7 @@ Currently recapping my knowledge of front end with ["Modern HTML & CSS From The 
 
 
 ### Udemy Projects
-- Flexbox: https://codepen.io/danielphilipjohnson/pen/JjXbpXa?editors=1010
+- Flexbox Edge Ledger: <a href="https://codepen.io/danielphilipjohnson/pen/JjXbpXa?editors=1010"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/Welcome-To-Edge-Ledger-desktop.png"></a>
 - Presentation: TBA
 - Hamburger: TBA
 - Knowledge Timeline: TBA
