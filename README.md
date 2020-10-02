@@ -20,7 +20,6 @@
 - 🌱 I’m currently improving at React and I’m looking to collaborate on react projects
 - 😄 Pronouns: Him, he, they
 - ⚡ Fun fact: I started programming with Basic on Commodore 64 (CBM 64) but never owned a pc until Windows Vista in 2008 😑. My desktop 🖥️ was Packard Bell iMedia x2414 with an enormous amount of Ram totalling 2GB. It did not take too long for me to consider my options and use Ubuntu 9.04 (Jaunty Jackalope). From, there I have used Linux ever since and yes, I use KDE for my GUI "you know what they say old habits die hard."
-- 
 <h2 align="center">Current Projects</h2>
 
 Currently recapping my knowledge of front end with ["Modern HTML & CSS From The Beginning (Including Sass)"](https://www.udemy.com/course/modern-html-css-from-the-beginning/) by [Brad Travesy](https://www.youtube.com/user/TechGuyWeb)
