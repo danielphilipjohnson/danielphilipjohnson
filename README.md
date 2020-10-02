@@ -32,8 +32,8 @@ I discovered programming as a young child by helping my mother program the game 
 ### Projects
 1. Flexbox Edge Ledger: <a href="https://codepen.io/danielphilipjohnson/pen/JjXbpXa?editors=1010"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/Welcome-To-Edge-Ledger-desktop.png"></a>
 
-2. NewsSite: TBA
-<a href=""><img src=""></a>
+2. NewsSite:
+<a href="https://codepen.io/danielphilipjohnson/pen/oNxwpLN"><img src="https://github.com/danielphilipjohnson/danielphilipjohnson/blob/feature-new-portfolio-items/portfolio-items/News-Site.png"></a>
 
 3. Portfolio: <a href="https://codepen.io/danielphilipjohnson/full/JjXmZGj"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/Portfolio.jpg"></a>
 
