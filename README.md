@@ -22,31 +22,37 @@
 - ⚡ Fun fact: I started programming with Basic on Commodore 64 (CBM 64) but never owned a pc until Windows Vista in 2008 😑. My desktop 🖥️ was Packard Bell iMedia x2414 with an enormous amount of Ram totalling 2GB. It did not take too long for me to consider my options and use Ubuntu 9.04 (Jaunty Jackalope). From, there I have used Linux ever since and yes, I use KDE for my GUI "you know what they say old habits die hard."
 <h2 align="center">Current Projects</h2>
 
-Currently recapping my knowledge of front end with ["Modern HTML & CSS From The Beginning (Including Sass)"](https://www.udemy.com/course/modern-html-css-from-the-beginning/) by [Brad Travesy](https://www.youtube.com/user/TechGuyWeb)
+Currently recapping my knowledge of front end with ["Advanced CSS and Sass: Flexbox, Grid, Animations and More! "](https://www.udemy.com/course/modern-html-css-from-the-beginning/) by [Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/)
 
 
+### 📔 Biography
+I discovered programming as a young child by helping my mother program the game <a href="https://www.retrogamer.net/retro_games80/blue-meanies-from-outer-space/">Blue Meanies from Outer Space</a>  into the Commodore 64 (CBM 64) memory.  Then while at college, I spent my free time playing Xbox and came across XNA Game Studio 3.0 in 2008. This idea of making games for Xbox seemed cool to me. So I started to learn C# and eventually built an RPG game from the toolkit they provided. After I finished college, I progressed to university studying psychology with little free time. My next year I switched to neuroscience where once again I fell in love with programming. It required using a samba Linux server and creating experiments with python and using libraries such as pandas, NumPy and matplotlib to plot and analysis data.  Then slowly in my free time, I started learning web development with freecodecamp and udacity and late moving to react. 
 
-### Udemy Projects
-- Flexbox Edge Ledger: <a href="https://codepen.io/danielphilipjohnson/pen/JjXbpXa?editors=1010"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/Welcome-To-Edge-Ledger-desktop.png"></a>
-- Presentation: TBA
-- Hamburger: TBA
-- Knowledge Timeline: TBA
-- NewsGrid: TBA
-- Sass Portfolio: TBA
 
-### Personal projects
-1. A Tribute Page: TBA
-2. Webpage Including Form: TBA
-3. Parallax Website: TBA
-4. Landing Page: TBA
-5. Restaurant Website: TBA
-6. An Event or Conference Webpage: TBA
-7. Music Store Page: TBA
-8. Photography Site: TBA
-9. Personal Portfolio: TBA
-10. Technical Documentation: TBA
-11. Google search and landing page: TBA
-12. Youtube clone Basic: TBA
+### Projects
+1. Flexbox Edge Ledger: <a href="https://codepen.io/danielphilipjohnson/pen/JjXbpXa?editors=1010"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/Welcome-To-Edge-Ledger-desktop.png"></a>
+
+2. NewsSite: TBA
+<a href=""><img src=""></a>
+
+3. Portfolio: <a href="https://codepen.io/danielphilipjohnson/full/JjXmZGj"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/Portfolio.jpg"></a>
+
+4. A Tribute Page: <a href="https://codepen.io/danielphilipjohnson/full/VwaJrPg"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/Tribute-Page.png"></a>
+
+5. Webpage Including Form: <a href="https://codepen.io/danielphilipjohnson/full/oNxabPN"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/Survery-Form.png"></a>
+
+6. Landing Page: 
+<a href="https://codepen.io/danielphilipjohnson/full/LYNgrGV"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/Product-Landing-Page.jpg"></a>
+
+7. Technical Documentation: <a href="https://codepen.io/danielphilipjohnson/full/PoNVJLW"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/Technical-Documentation.png"></a>
+
+8. Parallax Website: TBA
+9. Restaurant Website: TBA
+10. An Event or Conference Webpage: TBA
+11. Music Store Page: TBA
+12. Photography Site: TBA
+13. Google search and landing page: TBA
+14. Youtube clone Basic: TBA
 
 
 <h2 align="center"> Technologies and tools</h2>
@@ -88,8 +94,6 @@ Currently recapping my knowledge of front end with ["Modern HTML & CSS From The 
 
 
 
-### 📔 Biography
-I discovered programming as a young child by helping my mother program the game <a href="https://www.retrogamer.net/retro_games80/blue-meanies-from-outer-space/">Blue Meanies from Outer Space</a>  into the Commodore 64 (CBM 64) memory.  Then while at college, I spent my free time playing Xbox and came across XNA Game Studio 3.0 in 2008. This idea of making games for Xbox seemed cool to me. So I started to learn C# and eventually built an RPG game from the toolkit they provided. After I finished college, I progressed to university studying psychology with little free time. My next year I switched to neuroscience where once again I fell in love with programming. It required using a samba Linux server and creating experiments with python and using libraries such as pandas, NumPy and matplotlib to plot and analysis data.  Then slowly in my free time, I started learning web development with freecodecamp and udacity and late moving to react. 
 
 
 ## Languages I use
