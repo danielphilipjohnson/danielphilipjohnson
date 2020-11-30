@@ -7,8 +7,15 @@
 <a href="/"><img height="30" src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/social-icons/dev.webp"></a>
 <a href="https://www.linkedin.com/in/daniel-philip-johnson/"><img height="30" src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/social-icons/linkedin.png"></a>
 </p>
-
-
+<p align='center'>
+<a class="header-badge" target="_blank" href="https://twitter.com/danielp_johnson">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/danielp_johnson?style=social">
+  </a>
+  
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/daniel-philip-johnson/">
+  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+  </a>
+  </p>
 👋Hi! I'm a React Developer currently working on a series of side projects in my free time as well as contributing to the community with React and web resources.
 
 - 📌 Cornwall 🏴󠁧󠁢󠁥󠁮󠁧󠁿
@@ -26,8 +33,7 @@
 I discovered programming as a young child by helping my mother program the game <a href="https://www.retrogamer.net/retro_games80/blue-meanies-from-outer-space/">Blue Meanies from Outer Space</a>  into the Commodore 64 (CBM 64) memory.  Then while at college, I spent my free time playing Xbox and came across XNA Game Studio 3.0 in 2008. This idea of making games for Xbox seemed cool to me. So I started to learn C# and eventually built an RPG game from the toolkit they provided. After I finished college, I progressed to university studying psychology with little free time. My next year I switched to neuroscience where once again I fell in love with programming. It required using a samba Linux server and creating experiments with python and using libraries such as pandas, NumPy and matplotlib to plot and analysis data.  Then slowly in my free time, I started learning web development with freecodecamp and udacity and late moving to react. 
 
 <h2 align="center">Current Projects</h2>
-
-Currently recapping my knowledge of front end with ["Advanced CSS and Sass: Flexbox, Grid, Animations and More! "](https://www.udemy.com/course/modern-html-css-from-the-beginning/) by [Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/)
+Currently learning React Tutorial and Projects Course by John Smilga ["Currently learning React Tutorial"](https://www.udemy.com/course/react-tutorial-and-projects-course/) by [John Smilga](https://www.udemy.com/course/react-tutorial-and-projects-course/)
 
 
 ### Projects
@@ -47,13 +53,8 @@ Currently recapping my knowledge of front end with ["Advanced CSS and Sass: Flex
 
 7. Technical Documentation: <a href="https://codepen.io/danielphilipjohnson/full/PoNVJLW"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/Technical-Documentation.png"></a>
 
-8. Parallax Website: TBA
-9. Restaurant Website: TBA
-10. An Event or Conference Webpage: TBA
-11. Music Store Page: TBA
-12. Photography Site: TBA
-13. Google search and landing page: TBA
-14. Youtube clone Basic: TBA
+### Current projects 
+8. react mini projects
 
 
 <h2 align="center"> Technologies and tools</h2>
