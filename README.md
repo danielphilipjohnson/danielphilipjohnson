@@ -15,25 +15,38 @@
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/daniel-philip-johnson/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
-  </p>
-👋Hi! I'm a React Developer currently working on a series of side projects in my free time as well as contributing to the community with React and web resources.
+</p>
 
-- 📌 Cornwall 🏴󠁧󠁢󠁥󠁮󠁧󠁿
-- 🥼 Psychologist/neurosciencist turned React developer 🖥️
-- 🎓 Bsc Psychology | University of Plymouth 🏫 
-- ❤️ Linux Enthusiastic
-- 🖥️ I’m currently using Kubuntu 20.04, openSuse LEAP 15.2 recently Manjaro 20.0.3
-- 🔭 In my spare time I build <a href="http://www.linuxfromscratch.org/">linux from scratch</a>
-- 🌱 I’m currently improving at React and I’m looking to collaborate on react projects
+👋 Hi! I'm a React Developer for codecareer.io I'm currently maintaining a hiring system and well as contributing to a job board. In my spare time I have a series of side projects im undertaking as well as contributing to the community with React and web resources.
+
 - 😄 Pronouns: Him, he, they
+- 📌 Cornwall 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+- 🎓 Bsc Psychology | University of Plymouth 🏫 
+- 🥼 Psychologist turned React developer 🖥️
+- A React developer that is looking to collaborate with other on react projects
+- ❤️ Linux Enthusiastic, React, graphql
+- 🖥️ I’m currently using Kubuntu 20.04 and Manjaro 20.0.3
+- 🔭 In my spare time I build <a href="http://www.linuxfromscratch.org/">linux from scratch</a>
 - ⚡ Fun fact: I started programming with Basic on Commodore 64 (CBM 64) but never owned a pc until Windows Vista in 2008 😑. My desktop 🖥️ was Packard Bell iMedia x2414 with an enormous amount of Ram totalling 2GB. It did not take too long for me to consider my options and use Ubuntu 9.04 (Jaunty Jackalope). From, there I have used Linux ever since and yes, I use KDE for my GUI "you know what they say old habits die hard."
-
 
 ### 📔 Biography
 I discovered programming as a young child by helping my mother program the game <a href="https://www.retrogamer.net/retro_games80/blue-meanies-from-outer-space/">Blue Meanies from Outer Space</a>  into the Commodore 64 (CBM 64) memory.  Then while at college, I spent my free time playing Xbox and came across XNA Game Studio 3.0 in 2008. This idea of making games for Xbox seemed cool to me. So I started to learn C# and eventually built an RPG game from the toolkit they provided. After I finished college, I progressed to university studying psychology with little free time. My next year I switched to neuroscience where once again I fell in love with programming. It required using a samba Linux server and creating experiments with python and using libraries such as pandas, NumPy and matplotlib to plot and analysis data.  Then slowly in my free time, I started learning web development with freecodecamp and udacity and late moving to react. 
 
-<h2 align="center">Current Projects</h2>
-Currently learning React Tutorial and Projects Course by John Smilga ["Currently learning React Tutorial"](https://www.udemy.com/course/react-tutorial-and-projects-course/) by [John Smilga](https://www.udemy.com/course/react-tutorial-and-projects-course/)
+### 📌 2021 Goals
+- 📌 Conferences I'm attending this year. 
+  - JSworld Conference: 22-27 Feb 2021
+  - Angular Global Summit: 16-17 Feb 2021
+  - React JS Case Study Festival: 16-17 March 2021
+- 📓 Skills to improve
+  - Gatsby
+  - Tailwind
+  - GraphQL
+  - Redux
+  
+
+<h2 align="center">Currently Studying</h2>
+I’m currently taking Testing Javscript with Kent C. Dodds. ["Testing Javscript with Kent C. Dodds"](I’m currently taking Testing Javscript with Kent C. Dodds. 
+
 
 
 ### Projects
@@ -54,8 +67,11 @@ Currently learning React Tutorial and Projects Course by John Smilga ["Currently
 7. Technical Documentation: <a href="https://codepen.io/danielphilipjohnson/full/PoNVJLW"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/Technical-Documentation.png"></a>
 
 ### Current projects 
-8. react mini projects
-
+8. Markdown Previewer Tumblr clone
+9. Drum kit
+10. React forms 
+11. Gatsby Portfolio
+12. Video Blog
 
 <h2 align="center"> Technologies and tools</h2>
 
@@ -93,19 +109,9 @@ Currently learning React Tutorial and Projects Course by John Smilga ["Currently
 ### Storage
 [![Operating system](https://img.shields.io/badge/MongoDB-v0.0.0-green?logo=mongodb&color=10AA50&style=for-the-badge)](https://danielphilipjohnson.github.io/) [![mysql](https://img.shields.io/badge/MySQL-v0.0.0-green?logo=mysql&color=4479A1&style=for-the-badge)](https://danielphilipjohnson.github.io/) [![Redis](https://img.shields.io/badge/Redis-v0.0.0-green?logo=redis&color=DC382D&style=for-the-badge)](https://danielphilipjohnson.github.io/) [![Operating system](https://img.shields.io/badge/NodeJS-v0.0.0-green?logo=node.js&color=84CE24&style=for-the-badge)](https://danielphilipjohnson.github.io/)
 
-
-
-
-
-
 ## Languages I use
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielphilipjohnson&layout=compact)](https://github.com/danielphilipjohnson/github-readme-stats)
-
-<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=danielphilipjohnson&show_icons=true&theme=merko) -->
-
-
 
 ## ☕ Wanna Chat?
 @ me on <a href="https://twitter.com/DanielPhilipJo1">Twitter</a> about any of the following topics! 💬\
@@ -121,4 +127,3 @@ Currently learning React Tutorial and Projects Course by John Smilga ["Currently
 - Sharing useful programming resources on <a href="https://www.linkedin.com/in/daniel-philip-johnson/">LinkedIn</a> 💼
 - Tinkering with my projects on <a href="https://codepen.io/danielphilipjohnson/"> Codepen</a> 🏓
 - Showing my work in progress <a href="https://www.instagram.com/danielphilipjohnson/"> Instagram </a> 📹🤳
-
