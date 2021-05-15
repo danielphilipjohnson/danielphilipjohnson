@@ -60,10 +60,10 @@ I’m currently taking Testing Javscript with Kent C. Dodds. ["Testing Javscript
 
 4. A Tribute Page: <a href="https://codepen.io/danielphilipjohnson/full/VwaJrPg"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/tribute-page.png"></a>
 
-5. Webpage Including Form: <a href="https://codepen.io/danielphilipjohnson/full/oNxabPN"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/survery-form.png"></a>
+5. Webpage Including Form: <a href="https://codepen.io/danielphilipjohnson/full/oNxabPN"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/survey-form.png"></a>
 
 6. Landing Page:
-   <a href="https://codepen.io/danielphilipjohnson/full/LYNgrGV"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/product-landing-page.jpg"></a>
+   <a href="https://codepen.io/danielphilipjohnson/full/LYNgrGV"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/product-landing-page.png"></a>
 
 7. Technical Documentation: <a href="https://codepen.io/danielphilipjohnson/full/PoNVJLW"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/technical-documentation.png"></a>
 
