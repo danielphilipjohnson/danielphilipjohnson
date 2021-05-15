@@ -54,18 +54,18 @@ I’m currently taking Testing Javscript with Kent C. Dodds. ["Testing Javscript
 1. Flexbox Edge Ledger: <a href="https://codepen.io/danielphilipjohnson/pen/JjXbpXa?editors=1010"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/Welcome-To-Edge-Ledger-desktop.jpg"></a>
 
 2. NewsSite:
-   <a href="https://codepen.io/danielphilipjohnson/pen/oNxwpLN"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/News-Site.png"></a>
+   <a href="https://codepen.io/danielphilipjohnson/pen/oNxwpLN"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/news-site.png"></a>
 
 3. Portfolio: <a href="https://codepen.io/danielphilipjohnson/full/JjXmZGj"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/portfolio.jpg"></a>
 
-4. A Tribute Page: <a href="https://codepen.io/danielphilipjohnson/full/VwaJrPg"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/Tribute-Page.png"></a>
+4. A Tribute Page: <a href="https://codepen.io/danielphilipjohnson/full/VwaJrPg"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/tribute-page.png"></a>
 
-5. Webpage Including Form: <a href="https://codepen.io/danielphilipjohnson/full/oNxabPN"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/Survery-Form.png"></a>
+5. Webpage Including Form: <a href="https://codepen.io/danielphilipjohnson/full/oNxabPN"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/survery-form.png"></a>
 
 6. Landing Page:
-   <a href="https://codepen.io/danielphilipjohnson/full/LYNgrGV"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/Product-Landing-Page.jpg"></a>
+   <a href="https://codepen.io/danielphilipjohnson/full/LYNgrGV"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/product-landing-page.jpg"></a>
 
-7. Technical Documentation: <a href="https://codepen.io/danielphilipjohnson/full/PoNVJLW"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/Technical-Documentation.png"></a>
+7. Technical Documentation: <a href="https://codepen.io/danielphilipjohnson/full/PoNVJLW"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/technical-documentation.png"></a>
 
 8. Trillo:
    <a href="https://github.com/danielphilipjohnson/Front-End-Development-Path/tree/master/1.HTMLandCSS/11.trillo"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/trillo.png"></a>
