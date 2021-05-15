@@ -56,7 +56,7 @@ I’m currently taking Testing Javscript with Kent C. Dodds. ["Testing Javscript
 2. NewsSite:
    <a href="https://codepen.io/danielphilipjohnson/pen/oNxwpLN"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/News-Site.png"></a>
 
-3. Portfolio: <a href="https://codepen.io/danielphilipjohnson/full/JjXmZGj"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/Portfolio.jpg"></a>
+3. Portfolio: <a href="https://codepen.io/danielphilipjohnson/full/JjXmZGj"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/portfolio.jpg"></a>
 
 4. A Tribute Page: <a href="https://codepen.io/danielphilipjohnson/full/VwaJrPg"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/Tribute-Page.png"></a>
 
