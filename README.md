@@ -49,40 +49,97 @@ I discovered programming as a young child by helping my mother program the game 
 <h2 align="center">Currently Studying</h2>
 I’m currently taking Testing Javscript with Kent C. Dodds. ["Testing Javscript with Kent C. Dodds"](I’m currently taking Testing Javscript with Kent C. Dodds.
 
+## 🌎 Find me around the web :
+
+- Sharing useful programming resources on <a href="https://www.linkedin.com/in/daniel-philip-johnson/">LinkedIn</a> 💼
+- Tinkering with my projects on <a href="https://codepen.io/danielphilipjohnson/"> Codepen</a> 🏓
+- Showing my work in progress <a href="https://www.instagram.com/danielphilipjohnson/"> Instagram </a> 📹🤳
+
+## ☕ Wanna Chat?
+
+@ me on <a href="https://twitter.com/DanielPhilipJo1">Twitter</a> about any of the following topics! 💬\
+**ReactJS**: I would love to hear about your projects, or help you find helpful resources?\
+**JS**: If you require any resources, course suggestions or app ideas let me know!\
+**HTML/CSS**: If you want someone to work with on a project and I am free, then I will happily collaborate.\
+**Psychology**: I love to talk about this topic feel free to ask me any questions.\
+**Neuroscience**: My chosen topics are Default Mode Network, Perceptual Priming, Implicit Memory and Mental Imagery\
+**Other**: Talk to me about your favourite video game, I causally play <a href="https://fortnitetracker.com/profile/all/undreamt%20mayhem">Fortnite</a> or what you are currently watching? Suggestions always appreciated!\
+
 ### Projects
 
-1. Flexbox Edge Ledger: <a href="https://codepen.io/danielphilipjohnson/pen/JjXbpXa?editors=1010"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/welcome-to-edge-ledger-desktop.jpg"></a>
+1. Blog Website
+   <a href="https://github.com/danielphilipjohnson/Blogsite"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/blogsite.png"></a>
 
-2. NewsSite:
+2. Personal Website
+   <a href="https://github.com/danielphilipjohnson/Personal-Website"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/personal-website.png"></a>
+
+3. Flexbox Edge Ledger: <a href="https://codepen.io/danielphilipjohnson/pen/JjXbpXa?editors=1010"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/welcome-to-edge-ledger-desktop.jpg"></a>
+
+4. NewsSite:
    <a href="https://codepen.io/danielphilipjohnson/pen/oNxwpLN"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/news-site.png"></a>
 
-3. Portfolio: <a href="https://codepen.io/danielphilipjohnson/full/JjXmZGj"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/portfolio.jpg"></a>
+5. Portfolio: <a href="https://codepen.io/danielphilipjohnson/full/JjXmZGj"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/portfolio.jpg"></a>
 
-4. A Tribute Page: <a href="https://codepen.io/danielphilipjohnson/full/VwaJrPg"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/tribute-page.png"></a>
+6. A Tribute Page: <a href="https://codepen.io/danielphilipjohnson/full/VwaJrPg"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/tribute-page.png"></a>
 
-5. Webpage Including Form: <a href="https://codepen.io/danielphilipjohnson/full/oNxabPN"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/survey-form.png"></a>
+7. Webpage Including Form: <a href="https://codepen.io/danielphilipjohnson/full/oNxabPN"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/survey-form.png"></a>
 
-6. Landing Page:
+8. Landing Page:
    <a href="https://codepen.io/danielphilipjohnson/full/LYNgrGV"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/product-landing-page.png"></a>
 
-7. Technical Documentation: <a href="https://codepen.io/danielphilipjohnson/full/PoNVJLW"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/technical-documentation.png"></a>
+9. Technical Documentation: <a href="https://codepen.io/danielphilipjohnson/full/PoNVJLW"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/technical-documentation.png"></a>
 
-8. Trillo:
-   <a href="https://github.com/danielphilipjohnson/Front-End-Development-Path/tree/master/1.HTMLandCSS/11.trillo"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/trillo.png"></a>
+10. Trillo:
+    <a href="https://github.com/danielphilipjohnson/Front-End-Development-Path/tree/master/1.HTMLandCSS/11.trillo"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/trillo.png"></a>
 
-9. Scenic Cornwall:
-   <a href="https://github.com/danielphilipjohnson/Front-End-Development-Path/tree/master/1.HTMLandCSS/10.natours_travel"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/scenic-cornwall.png"></a>
+11. Scenic Cornwall:
+    <a href="https://github.com/danielphilipjohnson/Front-End-Development-Path/tree/master/1.HTMLandCSS/10.natours_travel"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/scenic-cornwall.png"></a>
 
-10. Nexter:
+12. Nexter:
     <a href="https://github.com/danielphilipjohnson/Front-End-Development-Path/tree/master/1.HTMLandCSS/12.nexter"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/nexters.png"></a>
+
+13. Calculator:
+    <a href="https://github.com/danielphilipjohnson/Front-End-Development-Path/tree/master/3.React-Projects/mini-projects/calculator"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/calculator.png"></a>
+
+14. Drumkit:
+    <a href="https://github.com/danielphilipjohnson/Front-End-Development-Path/tree/master/3.React-Projects/mini-projects/drumkit"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/drumkit.png"></a>
+
+15. Markdown:
+    <a href="https://github.com/danielphilipjohnson/Front-End-Development-Path/tree/master/3.React-Projects/mini-projects/markdownpreviewer"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/markdown.png"></a>
+
+16. Pomodoro: // missing
+    <a href="/"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/pomodoro.png"></a>
+
+17. Quote:
+    <a href="/"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/quote.png"></a>
+
+18. Recipe box:
+    <a href="/"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/recipe-box.png"></a>
+
+19. Simon:
+    <a href="/"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/simon.jpg"></a>
+
+20. Twitch clone:
+    <a href="/"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/twitch.png"></a>
+
+21. Wiki viewer:
+    <a href="/"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/wikiviewer.png"></a>
+
+22. Spotify Angular Clone:
+    <a href="/"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/spotifyclone-angular.png"></a>
+
+23. Spotify Material CSS Clone:
+    <a href="/"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/spotify-clone.png"></a>
+
+24. Messenger Material CSS Clone:
+    <a href="/"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/messenger-clone.png"></a>
+
+25. Instagram Material CSS Clone:
+    <a href="/"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/instragram-clone.png"></a>
 
 ### Current projects
 
-8. Markdown Previewer Tumblr clone
-9. Drum kit
-10. React forms
-11. Gatsby Portfolio
-12. Video Blog
+- amazon clone
 
 <h2 align="center"> Technologies and tools</h2>
 
@@ -129,19 +186,3 @@ I’m currently taking Testing Javscript with Kent C. Dodds. ["Testing Javscript
 ## Languages I use
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielphilipjohnson&layout=compact)](https://github.com/danielphilipjohnson/github-readme-stats)
-
-## ☕ Wanna Chat?
-
-@ me on <a href="https://twitter.com/DanielPhilipJo1">Twitter</a> about any of the following topics! 💬\
-**ReactJS**: I would love to hear about your projects, or help you find helpful resources?\
-**JS**: If you require any resources, course suggestions or app ideas let me know!\
-**HTML/CSS**: If you want someone to work with on a project and I am free, then I will happily collaborate.\
-**Psychology**: I love to talk about this topic feel free to ask me any questions.\
-**Neuroscience**: My chosen topics are Default Mode Network, Perceptual Priming, Implicit Memory and Mental Imagery\
-**Other**: Talk to me about your favourite video game, I causally play <a href="https://fortnitetracker.com/profile/all/undreamt%20mayhem">Fortnite</a> or what you are currently watching? Suggestions always appreciated!\
-
-## 🌎 Find me around the web :
-
-- Sharing useful programming resources on <a href="https://www.linkedin.com/in/daniel-philip-johnson/">LinkedIn</a> 💼
-- Tinkering with my projects on <a href="https://codepen.io/danielphilipjohnson/"> Codepen</a> 🏓
-- Showing my work in progress <a href="https://www.instagram.com/danielphilipjohnson/"> Instagram </a> 📹🤳
