@@ -135,7 +135,7 @@ I’m currently taking Testing Javscript with Kent C. Dodds. ["Testing Javscript
     <a href="/"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/messenger-clone.png"></a>
 
 25. Instagram Material CSS Clone:
-    <a href="/"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/instragram-clone.png"></a>
+    <a href="/"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/instagram-clone.png"></a>
 
 ### Current projects
 
