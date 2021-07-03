@@ -1,4 +1,4 @@
-# [![Daniel Philip Johnson header](https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/banner/banner.png)](https://danielphilipjohnson.github.io/)
+# [![Daniel Philip Johnson header](https://pbs.twimg.com/profile_banners/1272486620411944971/1625346840/1500x500)](https://danielphilipjohnson.github.io/)
 
 <p align='center'>
 <a href="https://codepen.io/danielphilipjohnson/"><img height="30" src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/social-icons/codepen.png"></a>&nbsp;&nbsp;
