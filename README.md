@@ -15,10 +15,11 @@
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/daniel-philip-johnson/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
+ <img src="https://komarev.com/ghpvc/?username=laylamassey&label=Profile%20views&color=0e75b6&style=flat" alt="laylamassey" /> 
+
 </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=laylamassey&label=Profile%20views&color=0e75b6&style=flat" alt="laylamassey" /> </p>
 
 Hi 👋 I am Daniel✨ 👨‍💻 I work remote 🏠 in Cornwall. 
 I am a Full-Stack Engineer with more than 2+ years of coding experience who is embarking on a journey to become a senior engineer with hiyield. I am in my second developer role, rocking the startup scene and still continuing to enjoy building rapid greenfield projects to help clients get their vision to market first.
