@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
 </p>
+![readme#2 (1)](https://user-images.githubusercontent.com/87538589/127787748-3189b0e2-5660-4236-aa60-f0faa0586ff8.png)
 
 Hi 👋 I am Daniel✨ 👨‍💻 I work remote 🏠 in Cornwall. 
 I am a Full-Stack Engineer with more than 2+ years of coding experience who is embarking on a journey to become a senior engineer with hiyield. I am in my second developer role, rocking the startup scene and still continuing to enjoy building rapid greenfield projects to help clients get their vision to market first.
