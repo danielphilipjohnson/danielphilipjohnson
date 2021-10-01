@@ -17,7 +17,10 @@
   </a>
 </p>
 
-👋 Hi! I'm a React Developer for codecareer.io I'm currently maintaining a hiring system and well as contributing to a job board. In my spare time I have a series of side projects im undertaking as well as contributing to the community with React and web resources.
+Hi 👋 I am Daniel✨ 👨‍💻 I work remote 🏠 in Cornwall. 
+I am a Full-Stack Engineer with more than 2+ years of coding experience who is embarking on a journey to become a senior engineer with hiyield. I am in my second developer role, rocking the startup scene and still continuing to enjoy building rapid greenfield projects to help clients get their vision to market first.
+
+Currently I am using my freetime to maintain vue based frameworks as well as contributing to a project relating to helping people get their first job in tech. 
 
 - 😄 Pronouns: Him, he, they
 - 📌 Cornwall 🏴󠁧󠁢󠁥󠁮󠁧󠁿
@@ -39,15 +42,15 @@ I discovered programming as a young child by helping my mother program the game 
   - JSworld Conference: 22-27 Feb 2021
   - Angular Global Summit: 16-17 Feb 2021
   - React JS Case Study Festival: 16-17 March 2021
-- 📓 Skills to improve
-  - Gatsby
-  - next.js
-  - Tailwind
-  - GraphQL
-  - Redux
+  - QA Geekle
+  - Nuxt conference
+  - Geekle Ecommerce
 
-<h2 align="center">Currently Studying</h2>
-I’m currently taking Testing Javscript with Kent C. Dodds. ["Testing Javscript with Kent C. Dodds"](I’m currently taking Testing Javscript with Kent C. Dodds.
+
+- 📓 Skills to improve
+  - Nuxt master
+  - Docker
+  - Kubernetes
 
 ## 🌎 Find me around the web :
 
@@ -136,10 +139,6 @@ I’m currently taking Testing Javscript with Kent C. Dodds. ["Testing Javscript
 
 25. Instagram Material CSS Clone:
     <a href="/"><img src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/portfolio-items/instagram-clone.png"></a>
-
-### Current projects
-
-- amazon clone
 
 <h2 align="center"> Technologies and tools</h2>
 
