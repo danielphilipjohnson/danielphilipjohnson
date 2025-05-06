@@ -1,4 +1,4 @@
-# [![Daniel Philip Johnson header](https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/banner/banner.png)](https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/banner/banner.png)
+# [![Daniel Philip Johnson header](https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/banner/github-banner.png)](https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/banner/github-banner.png)
 <p align='center'>
 <a href="https://codepen.io/danielphilipjohnson/"><img height="30" src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/social-icons/codepen.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/danielp_johnson"><img height="30" src="https://raw.githubusercontent.com/danielphilipjohnson/danielphilipjohnson/master/social-icons/twitter.png"></a>&nbsp;&nbsp;
