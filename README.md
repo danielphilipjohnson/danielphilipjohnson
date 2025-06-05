@@ -53,7 +53,8 @@ I am a **Full-Stack Engineer with 5+ years of experience**, transitioning from *
 - 💼 [LinkedIn](https://www.linkedin.com/in/daniel-philip-johnson/)  
 - 🐦 [Twitter](https://twitter.com/danielp_johnson)  
 - 🎨 [CodePen](https://codepen.io/danielphilipjohnson/)  
-- 📺 [YouTube (Coming Soon!)](https://www.youtube.com/)  
+- 📺 [YouTube (Coming Soon!)](https://www.youtube.com/)
+- [Website](https://danielphilipjohnson.com/)
 
 ---
 
